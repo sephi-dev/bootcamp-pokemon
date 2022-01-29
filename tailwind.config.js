@@ -1,5 +1,7 @@
 module.exports = {
-  content: [],
+  content: [
+    "./src/routes/home.jsx",
+  ],
   theme: {
     extend: {},
   },
