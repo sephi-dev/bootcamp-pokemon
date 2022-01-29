@@ -1,11 +1,9 @@
 import Proptypes from "prop-types";
 
 export function Home() {
-  return(
+  return (
     <>
-    <h1>
-      Pokedex
-    </h1>
+      <h1>Pokedex</h1>
     </>
-  )
+  );
 }
